@@ -1,0 +1,35 @@
+* {
+    background-image: url(https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D);
+    border-radius: 10px;
+}
+
+
+.Product {
+    border-radius: 10px;
+    border: 10px solid rgba(0, 0, 0, 0.389);
+    height: 500px;
+    width: 350px;
+}
+
+.Product label,
+h4 {
+    font-size: 25px;
+    font-weight: 600;
+    font-family: "Brush Script MT";
+    color: #8B5A2B;
+
+}
+
+.Product button {
+    font-size: 25px;
+    font-weight: 600;
+    font-family: "Brush Script MT";
+    color: #8B5A2B;
+    border-radius: 10px;
+
+}
+
+.Product button:hover {
+    border: 1px solid #8B5A2B;
+
+}
